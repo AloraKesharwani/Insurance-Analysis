@@ -29,7 +29,7 @@ Represent Region in a slicer to filter the visual that will be created on this p
   
 </p>This donut chart represents the proposition of people who are smokers or non-smokers. It represents that the number of people who are smokers is equal to 0.27k, and the percentage is 20.48%. The non-smoker count is 1.06k in numbers and, in percentage, 79.52%. The higher proportion of non-smokers suggests a potentially lower risk profile for the overall insured population, as non-smokers generally exhibit lower health risks and may require fewer claims.<p>
   
-  <b>4. PROFIT BY CATEGORY:</b> 
+  <b>4. NUMBER OF CUSTOMER BY AGE GROUP:</b> 
   
 The profit by category chart gives managers the ability to have a wide range of information in just one chart, by drilling up they can have information about the overall profit of each product category and by drilling down they can find the most valuable products and the slow-mover ones. This can help production to put their resources into producing profitable goods and perhaps stop the production of goods with little to no profit
 </p>
