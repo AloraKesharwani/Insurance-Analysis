@@ -2,9 +2,7 @@
 <p>This dashboard centres on the seamless integration of data cleaning, transformation, and profiling using PowerBI Desktop. It begins by importing data from Excel, followed by a comprehensive data profiling phase where additional columns like "Index" and "Age group" are introduced for enhanced reporting. Each record corresponds to an individual, and subsequent checks ensure data quality by assessing column distribution, profiles, and the absence of errors or null values. The dashboard leverages PowerBI Desktop's report view, employing various visual formatting techniques to create an informative and visually appealing representation of the enriched dataset. This approach ensures a solid foundation for insightful reporting and decision-making.
 
 As per the reporting requirement, it is required to identify each individual by a unique ID. That’s why the name index column is replaced with an ID column.
-
 Minimum age is 18 or maximum is 64. Age group column: using the conditioning column (if age is less than 25, then consider A1).(If age is less than 51, then consider A2); otherwise,  A3)
-
 According to this column, we tried to categorise people or put people in different categories according to their age group.
 
 
@@ -12,18 +10,14 @@ According to this column, we tried to categorise people or put people in differe
 <p><h3>INSURANCE DASHBORD </h3></p>
 <img src=https://github.com/AloraKesharwani/Insurance-Analysis/assets/155231669/9c6781ed-bdf7-4459-a83b-879e59b7c292>
 <p>
-  <b>1. PROFIT BY YEAR AND QUATER:</b> 
+  
+  <b>1. ID, REGION, NUMBER OF CUSTOMER:</b> 
  
-  The profit chart shows the overall view of profit in each quarter and year.
-  
-  Sum up the profits for each quarter to get the total profit for each year.
-  
-In 2018, profits seem to be increasing from Q1 to Q4, with Q4 being the most profitable quarter.
-In 2023, there is a slight dip in Q1, but profits increase again in Q2, Q3, and Q4.
+  ID by which identifying each individual, each record or represent this on slicer.
 
-Analyse each quarter individually to understand the factors contributing to fluctuations in profits.
+To represent the total number of customers or total individuals from whom the data is given.
 
-Identify whether profits are consistently growing, declining, or remaining stable.
+Represent Region in a slicer to filter the visual that will be created on this page.
 </p>
 <p>
   <b>2. PROFIT BY PRODUCTS:</b> 
