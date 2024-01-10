@@ -22,11 +22,7 @@ Represent Region in a slicer to filter the visual that will be created on this p
 <p>
   <b>2. AVERAGE CHARGES BY AGE GROUP:</b> 
 
-  Compare profits for each product to identify which products are the most profitable and contribute significantly to overall store profits.
-
-  Identify products that are often purchased together. This information can be used to create cross-selling strategies.
-
-  Some products are in the growth phase, maturity, or decline phase, and adjust marketing and inventory strategies accordingly.
+  Stacked bar charts represent average charges for all different age groups; there are three different age groups. A1, A2, and A3. Charts show high to low charges according to age group (A3, A2, and A1). A3 considers an age group of 51 to 64, A2 considers an age group of 25 to 50, and A1 considers an age group of less than 25.
 </p>
 <p>
   <b>3. PROFIT BY SUB- CATEGORY AND REGIONS:</b> 
@@ -34,8 +30,6 @@ Represent Region in a slicer to filter the visual that will be created on this p
 </p>The profit by subcategories and region provides a variety of filters. The users can also filter the visualisations in the dashboard by region and sub-categories. The dashboard is dynamic, and the filter will be applied to all the visualisations available in the matrix chart.
 
 These matrix charts can help the business optimise its profit by region and subcategories
-
-The profit matrix chart is a valuable visualisation that can provide an overall view of the subcategories of each region.
 
 <p>
   <b>4. PROFIT BY CATEGORY:</b> 
