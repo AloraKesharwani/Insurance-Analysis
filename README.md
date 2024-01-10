@@ -1,7 +1,6 @@
 # INSURANCE_ANALYSIS
-<p>In this dashboard, we focus on the sample data from a superstore. Superstore is a small retail business and provides a concise yet comprehensive overview of profit data.
-  Superstore managers can see the total profit, total sales, and the total discount of each region, they can also see details of each state by simply drilling down to the state view in slicer chart.
-The data set consists of sales detail, profit detail, quantity detail, etc. It contains over 9995 rows and 21 columns of data. This dashboard can help the business with decision-making.
+<p>This dashboard centres on the seamless integration of data cleaning, transformation, and profiling using PowerBI Desktop. It begins by importing data from Excel, followed by a comprehensive data profiling phase where additional columns like "Index" and "Age group" are introduced for enhanced reporting. Each record corresponds to an individual, and subsequent checks ensure data quality by assessing column distribution, profiles, and the absence of errors or null values. The dashboard leverages PowerBI Desktop's report view, employing various visual formatting techniques to create an informative and visually appealing representation of the enriched dataset. This approach ensures a solid foundation for insightful reporting and decision-making.
+
 
 
 <p><h3>INSURANCE DASHBORD </h3></p>
