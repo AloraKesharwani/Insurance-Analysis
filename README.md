@@ -20,7 +20,7 @@ To represent the total number of customers or total individuals from whom the da
 Represent Region in a slicer to filter the visual that will be created on this page.
 </p>
 <p>
-  <b>2. PROFIT BY PRODUCTS:</b> 
+  <b>2. AVERAGE CHARGES BY AGE GROUP:</b> 
 
   Compare profits for each product to identify which products are the most profitable and contribute significantly to overall store profits.
 
