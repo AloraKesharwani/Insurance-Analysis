@@ -25,13 +25,10 @@ Represent Region in a slicer to filter the visual that will be created on this p
   Stacked bar charts represent average charges for all different age groups; there are three different age groups. A1, A2, and A3. Charts show high to low charges according to age group (A3, A2, and A1). A3 considers an age group of 51 to 64, A2 considers an age group of 25 to 50, and A1 considers an age group of less than 25.
 </p>
 <p>
-  <b>3. PROFIT BY SUB- CATEGORY AND REGIONS:</b> 
+  <b>3. NUMBER OF SMOKERS :</b> 
   
-</p>The profit by subcategories and region provides a variety of filters. The users can also filter the visualisations in the dashboard by region and sub-categories. The dashboard is dynamic, and the filter will be applied to all the visualisations available in the matrix chart.
-
-These matrix charts can help the business optimise its profit by region and subcategories
-
-<p>
+</p>This donut chart represents the proposition of people who are smokers or non-smokers. It represents that the number of people who are smokers is equal to 0.27k, and the percentage is 20.48%. The non-smoker count is 1.06k in numbers and, in percentage, 79.52%. The higher proportion of non-smokers suggests a potentially lower risk profile for the overall insured population, as non-smokers generally exhibit lower health risks and may require fewer claims.<p>
+  
   <b>4. PROFIT BY CATEGORY:</b> 
   
 The profit by category chart gives managers the ability to have a wide range of information in just one chart, by drilling up they can have information about the overall profit of each product category and by drilling down they can find the most valuable products and the slow-mover ones. This can help production to put their resources into producing profitable goods and perhaps stop the production of goods with little to no profit
