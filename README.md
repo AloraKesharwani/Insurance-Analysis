@@ -7,7 +7,7 @@ The data set consists of sales detail, profit detail, quantity detail, etc. It c
 <img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/467d0351-712f-4fa2-9188-d4f3f88a189d>
 
 <p><h3>PROFIT DASHBORD </h3></p>
-<img src=https://github.com/AloraKesharwani/SUPER-STORE-PROFIT/assets/155231669/1496eccf-25f3-4596-9900-4c407f496bcd>
+<img src=https://github.com/AloraKesharwani/Insurance-Analysis/assets/155231669/9c6781ed-bdf7-4459-a83b-879e59b7c292>
 <p>
   <b>1. PROFIT BY YEAR AND QUATER:</b> 
  
