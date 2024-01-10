@@ -1,6 +1,12 @@
 # INSURANCE_ANALYSIS
 <p>This dashboard centres on the seamless integration of data cleaning, transformation, and profiling using PowerBI Desktop. It begins by importing data from Excel, followed by a comprehensive data profiling phase where additional columns like "Index" and "Age group" are introduced for enhanced reporting. Each record corresponds to an individual, and subsequent checks ensure data quality by assessing column distribution, profiles, and the absence of errors or null values. The dashboard leverages PowerBI Desktop's report view, employing various visual formatting techniques to create an informative and visually appealing representation of the enriched dataset. This approach ensures a solid foundation for insightful reporting and decision-making.
 
+As per the reporting requirement, it is required to identify each individual by a unique ID. That’s why the name index column is replaced with an ID column.
+
+Minimum age is 18 or maximum is 64. Age group column: using the conditioning column (if age is less than 25, then consider A1).(If age is less than 51, then consider A2); otherwise,  A3)
+
+According to this column, we tried to categorise people or put people in different categories according to their age group.
+
 
 
 <p><h3>INSURANCE DASHBORD </h3></p>
