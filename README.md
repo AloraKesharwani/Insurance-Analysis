@@ -29,14 +29,13 @@ Represent Region in a slicer to filter the visual that will be created on this p
   
 </p>This donut chart represents the proposition of people who are smokers or non-smokers. It represents that the number of people who are smokers is equal to 0.27k, and the percentage is 20.48%. The non-smoker count is 1.06k in numbers and, in percentage, 79.52%. The higher proportion of non-smokers suggests a potentially lower risk profile for the overall insured population, as non-smokers generally exhibit lower health risks and may require fewer claims.<p>
   
-  <b>4. NUMBER OF CUSTOMER BY AGE GROUP:</b> 
+  <b>4. NUMBER OF CUSTOMER BY COUNT OF CHILDREN :</b> 
   
-The profit by category chart gives managers the ability to have a wide range of information in just one chart, by drilling up they can have information about the overall profit of each product category and by drilling down they can find the most valuable products and the slow-mover ones. This can help production to put their resources into producing profitable goods and perhaps stop the production of goods with little to no profit
-</p>
-<p>
+  The chart breaks down the number of customers based on their count of children. It's noticeable that a large majority, 574 customers to be exact, have no children, suggesting a prevalent trend towards smaller families. As the number of children increases, the count decreases, with only 18 customers reporting having 5 children. This insight is valuable for tailoring insurance products and marketing efforts to align with the demographics of the majority, ensuring that offerings meet the needs of customers with various family sizes.</p>
+
   <b>5. PROFIT BY STATES:</b> 
   Determining the top-performing state by analysing various metrics. By evaluating metrics such as total sales, customer acquisition, and profitability by state, businesses can identify the region contributing the most to overall success. This analysis guides strategic decisions, allowing businesses to focus resources, marketing efforts, and customer engagement strategies on the top-performing state for sustained growth and market dominance. Identifying and targeting top customers based on higher spending for special discounts and coupons is a strategic approach to cultivating preferred customer relationships.
 </p>
 
-<p>Jan 2024 <p/>
+<p>10 Jan 2024 <p/>
 
