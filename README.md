@@ -14,9 +14,7 @@ According to this column, we tried to categorise people or put people in differe
   <b>1. ID, REGION, NUMBER OF CUSTOMER:</b> 
  
   ID by which identifying each individual, each record or represent this on slicer.
-
 To represent the total number of customers or total individuals from whom the data is given.
-
 Represent Region in a slicer to filter the visual that will be created on this page.
 </p>
 <p>
@@ -33,9 +31,10 @@ Represent Region in a slicer to filter the visual that will be created on this p
   
   The chart breaks down the number of customers based on their count of children. It's noticeable that a large majority, 574 customers to be exact, have no children, suggesting a prevalent trend towards smaller families. As the number of children increases, the count decreases, with only 18 customers reporting having 5 children. This insight is valuable for tailoring insurance products and marketing efforts to align with the demographics of the majority, ensuring that offerings meet the needs of customers with various family sizes.</p>
 
-  <b>5. PROFIT BY STATES:</b> 
-  Determining the top-performing state by analysing various metrics. By evaluating metrics such as total sales, customer acquisition, and profitability by state, businesses can identify the region contributing the most to overall success. This analysis guides strategic decisions, allowing businesses to focus resources, marketing efforts, and customer engagement strategies on the top-performing state for sustained growth and market dominance. Identifying and targeting top customers based on higher spending for special discounts and coupons is a strategic approach to cultivating preferred customer relationships.
-</p>
+  <b>5. AVERAGE BY BMI BY SEX OR SMOKER (Y OR N) :</b> 
+ In this manner, represent the average body mass index (BMI) and find that, on average, men have slightly higher BMIs than women. When we further look into smoking habits, it appears that both male and female smokers tend to have a slightly lower average BMI compared to non-smokers. This simple breakdown helps us understand how BMI differs between genders and based on smoking habits, offering insights that can be useful for personalised health and insurance considerations.</p>
+
+
 
 <p>10 Jan 2024 <p/>
 
