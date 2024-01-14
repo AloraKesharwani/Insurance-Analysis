@@ -31,7 +31,9 @@ Represent Region in a slicer to filter the visual that will be created on this p
   
   The chart breaks down the number of customers based on their count of children. It's noticeable that a large majority, 574 customers to be exact, have no children, suggesting a prevalent trend towards smaller families. As the number of children increases, the count decreases, with only 18 customers reporting having 5 children. This insight is valuable for tailoring insurance products and marketing efforts to align with the demographics of the majority, ensuring that offerings meet the needs of customers with various family sizes.</p>
 
-  <b>5. AVERAGE BY BMI BY SEX OR SMOKER (Y OR N) :</b> 
+  <b>5. AVERAGE BY BMI BY SEX OR SMOKER (Y OR N) :
+  </b> 
+ 
  In this manner, represent the average body mass index (BMI) and find that, on average, men have slightly higher BMIs than women. When we further look into smoking habits, it appears that both male and female smokers tend to have a slightly lower average BMI compared to non-smokers. This simple breakdown helps us understand how BMI differs between genders and based on smoking habits, offering insights that can be useful for personalised health and insurance considerations.</p>
 
 
